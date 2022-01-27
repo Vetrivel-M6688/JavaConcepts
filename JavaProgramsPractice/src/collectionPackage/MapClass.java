@@ -7,15 +7,15 @@ import java.util.TreeMap;
 
 /* HashMap, LinkedHashMap,TreeMap										TreeMap additional methods
  * ==============================										==========================
- * 1. put																firstEntry
- * 2. putAll															firstKey
- * 3. keySet															lastEntry
- * 4. values															lastKey
- * 5. containsKey														higherEntry
- * 6. containsValue														higherKey
- * 7. get																lowerEntry
- * 8. entrySet															lowerKey
- * 9. putIfPresent														ceilingEntry
+ * 1. put																				firstEntry
+ * 2. putAll																		firstKey
+ * 3. keySet																		lastEntry
+ * 4. values																		lastKey
+ * 5. containsKey																higherEntry
+ * 6. containsValue																higherKey
+ * 7. get																			lowerEntry
+ * 8. entrySet																	lowerKey
+ * 9. putIfPresent																ceilingEntry
  *10. getKey & getValue ===> Only work in looping using Entry			ceilingKey
  *11. remove ===> remove with Key only									floorEntry
  *12. remove ===> remove with Key and Value								floorKey
